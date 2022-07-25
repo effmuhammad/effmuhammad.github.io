@@ -34,29 +34,15 @@
       
       body{
         padding-top: 10px;
+        width:1000px
         font-family:'Verdana';
       }
-      .header, .footer, .section{
+      header, section{
         display: flex;
         flex-wrap: wrap;
       }
-      
-      /*untuk layar device berukuran sedang*/
-      @media screen and (min-width: 600px) {
-         .header, .footer {
-             width: 30%;
-         }
-         .section {
-             width: 70%;
-         }
-      }
-      /*untuk layar device berukuran besar*/
-      @media screen and (min-width: 800px) {
-         .body {
-           width: 100%;
-           margin-left: auto;
-           margin-right: auto;
-         }
+      p{
+        font-size:18px;
       }
         
     </style>
@@ -65,9 +51,9 @@
     <div class="wrapper">
       <header>
         {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" style="border-radius:50%;width:200px">
+          <img src="{{site.logo | relative_url}}" alt="Logo" style="border-radius:50%;width:200px;padding-bottom: 10px">
         {% endif %}
-        <h1 style="font-size:20px"><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+        <h1 style="font-size:20px;padding-bottom:-50%;"><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
         {% if site.github.is_project_page %}
@@ -105,11 +91,6 @@
 
       </section>
       <footer>
-        <br>
-        {% if site.github.is_project_page %}
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
-        
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
