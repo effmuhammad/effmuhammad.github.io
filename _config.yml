@@ -1,12 +1,9 @@
 title: Effry Muhammad # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Maker and Developer
-  <br>
-  Interested in Financial Market
+  Data and Machine Learning Enthusiast
   <br>
   Research in Computer Vision and Time-series Deep Learning
-  <br>
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
