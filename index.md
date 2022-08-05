@@ -2,29 +2,37 @@
 
 ---
 
-### Project List Index
-1. [Data Analysis and Pred. Analytics](#example)
-2. [Machine Learning and Deep Learning](#example2)
-3. [Robotics, Computer Vision, IoT and Embedded System](#fourth-examplehttpwwwfourthexamplecom)
-4. [Random Projects](#example2)
+### Project Category Index
+1. [Data Analysis and Pred. Analytics](#cat1)
+2. [Machine Learning and Deep Learning](#cat2)
+3. [Robotics, Computer Vision, IoT and Embedded System](#cat3)
+4. [Random Projects](#cat4)
 
+1. Option one
+
+ Second paragraph
+
+2. Option two
+
+ Second paragraph
 ---
-### Category Name 1
+### <a name="cat1"></a>Data Analysis and Pred. Analytics
 
-#### [Project 1 Title](/sample_page)
+* [Project 1 Title](/sample_page)
+A project from freak people
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+2. [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+3. [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### <a name="cat2"></a>Machine Learning and Deep Learning
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
@@ -34,8 +42,23 @@
 
 ---
 
+### <a name="cat3"></a>Robotics, Computer Vision, IoT and Embedded System
 
+- [Project 1 Title](http://example.com/)
+- [Project 2 Title](http://example.com/)
+- [Project 3 Title](http://example.com/)
+- [Project 4 Title](http://example.com/)
+- [Project 5 Title](http://example.com/)
 
+---
+
+### <a name="cat4"></a>Random Projects
+
+- [Project 1 Title](http://example.com/)
+- [Project 2 Title](http://example.com/)
+- [Project 3 Title](http://example.com/)
+- [Project 4 Title](http://example.com/)
+- [Project 5 Title](http://example.com/)
 
 ---
 <p style="font-size:11px">Page template from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
