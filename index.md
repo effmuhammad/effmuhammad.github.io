@@ -1,5 +1,5 @@
 ## Project Portfolio and Code Snippet Repositories
-
+<mark style="background-color: #111111">Highlighted text</mark> 
 ---
 
 ### Category Name 1 
@@ -10,6 +10,8 @@
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+<mark style="background-color: #0c521f">Highlighted text</mark> 
 
 ---
 [Project 3 Title](http://example.com/)
