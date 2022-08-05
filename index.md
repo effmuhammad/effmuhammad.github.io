@@ -1,5 +1,13 @@
 ## Project Portfolio and Code Snippet Repositories
 
+
+***
+
+---
+
+_________________
+
+
 ---
 
 ### Project Category Index
@@ -9,6 +17,7 @@
 4. [Random Projects](#cat4)
 
 <a name="cat1"></a>
+
 ---
 
 ### Data Analysis and Pred. Analytics
@@ -30,6 +39,7 @@ A project from freak people
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 <a name="cat2"></a>
+
 ---
 
 ### Machine Learning and Deep Learning
@@ -41,6 +51,7 @@ A project from freak people
 - [Project 5 Title](http://example.com/)
 
 <a name="cat3"></a>
+
 ---
 
 ### Robotics, Computer Vision, IoT and Embedded System
@@ -52,6 +63,7 @@ A project from freak people
 - [Project 5 Title](http://example.com/)
 
 <a name="cat4"></a>
+
 ---
 
 ### Random Projects
