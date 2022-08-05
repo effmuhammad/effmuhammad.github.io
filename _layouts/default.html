@@ -78,10 +78,34 @@
       h3{
         font-size:18px;
       }
-      header{
-        padding-bottom: 10px;
+      
+      @media print, screen and (max-width: 720px){
+        header {
+            padding: 0;
+        }
       }
-        
+
+      @media print, screen and (max-width: 960px){
+        header {
+            justify-content: center;
+            align-items: center;
+        }
+      }
+      @media print, screen and (max-width: 960px){
+        header, section, footer {
+            float: none;
+            position: static;
+            width: auto;
+        }
+      }
+      header {
+          width: 270px;
+          float: left;
+          position: fixed;
+          padding-bottom: 10px;
+          -webkit-font-smoothing: subpixel-antialiased;
+      }
+      
     </style>
   </head>
   <body>
