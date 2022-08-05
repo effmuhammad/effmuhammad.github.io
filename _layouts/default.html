@@ -77,6 +77,9 @@
       h3{
         font-size:18px;
       }
+      header{
+        padding-bottom: 10px;
+      }
         
     </style>
   </head>
@@ -86,8 +89,8 @@
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" style="border-radius:50%;width:180px;padding-bottom: 10px">
         {% endif %}
-        <h1 style="font-size:20px;margin-bottom:10px;color:#525252;"><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
+        <h1 href="{{ "/" | absolute_url }}" style="font-size:20px;margin-bottom:10px;">{{ site.title | default: site.github.repository_name }}</h1>
+        <p style="margin-bottom:10px;">{{ site.description | default: site.github.project_tagline }}</p>
         
         <button class="button button1" href="/pdf/resume_Effry_Muhammad.pdf">📄 View My Resume</button>
         
@@ -102,6 +105,7 @@
         -->
         
         <!-- Add social media -->
+        <br>
         <i class="fa-solid fa-location-dot"></i><a style="font-size:15px;" href="https://goo.gl/maps/AQLaxeYaiLMgS8C38" target="_blank">Surabaya, Indonesia</a>
         <br>
         <i class="fa-solid fa-envelope"></i><a style="font-size:15px;" href="mailto:eff.muhammad@gmail.com" target="_blank">eff.muhammad@gmail.com</a>
@@ -113,7 +117,6 @@
         <i class="fa-brands fa-instagram-square"></i><a style="font-size:15px;" href="https://www.instagram.com/eff.muhammad/" target="_blank">Instagram</a>
         <br>
         <i class="fa-brands fa-youtube"></i><a style="font-size:15px;" href="https://www.youtube.com/channel/UCuMx3xBvFUoICmI6m7BHpqg" target="_blank">YouTube</a>
-        <br>
         
         {% if site.show_downloads %}
         <ul class="downloads">
