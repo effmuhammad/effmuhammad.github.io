@@ -1,4 +1,4 @@
-# Project Portfolio and Code Snippet Repositories
+## Project Portfolio and Code Snippet Repositories
 
 ---
 
