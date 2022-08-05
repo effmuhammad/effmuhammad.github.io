@@ -8,26 +8,24 @@
 3. [Robotics, Computer Vision, IoT and Embedded System](#cat3)
 4. [Random Projects](#cat4)
 
-1. Option one
-
- Second paragraph
-
-2. Option two
-
- Second paragraph
 ---
+
 ### <a name="cat1"></a>Data Analysis and Pred. Analytics
 
-* [Project 1 Title](/sample_page)
+#### [Project 1 Title](/sample_page)
+
 A project from freak people
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 ---
-2. [Project 2 Title](/pdf/sample_presentation.pdf)
+
+#### [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-3. [Project 3 Title](http://example.com/)
+
+#### [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
