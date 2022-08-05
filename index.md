@@ -1,13 +1,5 @@
 ## Project Portfolio and Code Snippet Repositories
 
-
-***
-
----
-
-_________________
-
-
 ---
 
 ### Project Category Index
@@ -20,7 +12,7 @@ _________________
 
 ---
 
-### Data Analysis and Pred. Analytics
+### 📈 Data Analysis and Pred. Analytics
 
 #### [Project 1 Title](/sample_page)
 
@@ -42,7 +34,7 @@ A project from freak people
 
 ---
 
-### Machine Learning and Deep Learning
+### 👨🏾‍💻 Machine Learning and Deep Learning
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
@@ -54,7 +46,7 @@ A project from freak people
 
 ---
 
-### Robotics, Computer Vision, IoT and Embedded System
+### 🤖 Robotics, Computer Vision, IoT and Embedded System
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
@@ -66,7 +58,7 @@ A project from freak people
 
 ---
 
-### Random Projects
+### 🧩 Random Projects
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
