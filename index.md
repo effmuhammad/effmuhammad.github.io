@@ -8,9 +8,10 @@
 3. [Robotics, Computer Vision, IoT and Embedded System](#cat3)
 4. [Random Projects](#cat4)
 
+<a name="cat1"></a>
 ---
 
-### <a name="cat1"></a>Data Analysis and Pred. Analytics
+### Data Analysis and Pred. Analytics
 
 #### [Project 1 Title](/sample_page)
 
@@ -28,9 +29,10 @@ A project from freak people
 #### [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
+<a name="cat2"></a>
 ---
 
-### <a name="cat2"></a>Machine Learning and Deep Learning
+### Machine Learning and Deep Learning
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
@@ -38,9 +40,10 @@ A project from freak people
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
+<a name="cat3"></a>
 ---
 
-### <a name="cat3"></a>Robotics, Computer Vision, IoT and Embedded System
+### Robotics, Computer Vision, IoT and Embedded System
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
@@ -48,9 +51,10 @@ A project from freak people
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
+<a name="cat4"></a>
 ---
 
-### <a name="cat4"></a>Random Projects
+### Random Projects
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
