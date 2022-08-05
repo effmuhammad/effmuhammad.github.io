@@ -93,7 +93,7 @@
         <h1 href="{{ "/" | absolute_url }}" style="font-size:20px;margin-bottom:10px;">{{ site.title | default: site.github.repository_name }}</h1>
         <p style="margin-bottom:10px;">{{ site.description | default: site.github.project_tagline }}</p>
         
-        <button class="button button1" onclick="window.location.href='/pdf/resume_Effry_Muhammad.pdf';">📄 View My Resume</button>
+        <button class="button button1" onclick="window.open("/pdf/resume_Effry_Muhammad.pdf")">📄 View My Resume</button> window.open("https://www.w3schools.com")
         
         <!--
         {% if site.github.is_project_page %}
