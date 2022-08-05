@@ -1,12 +1,13 @@
-## Project Portfolio and Code Snippet Repositories
+## Project Portfolio
 
 ---
 
-### Project Category Index
+### Index
 1. [Data Analysis and Pred. Analytics](#cat1)
 2. [Machine Learning and Deep Learning](#cat2)
 3. [Robotics, Computer Vision, IoT and Embedded System](#cat3)
 4. [Random Projects](#cat4)
+5. [Code Snippet](#cat5)
 
 <a name="cat1"></a>
 
@@ -65,6 +66,34 @@ A project from freak people
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
+
+---
+
+### 📌 Code Snippet
+
+<style>snav ul{ background: grey; border-radius: 5px; height:200px; width:50%; overflow:auto; overflow-y:scroll; padding : 10px 30px; }</style>
+
+<header>header area</header>
+
+<snav>
+
+*   Link 1rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+*   Link 2
+*   Link 3
+*   Link 4
+*   Link 5
+*   Link 6
+*   Link 7
+*   Link 8
+*   Link 9
+*   Link 10
+*   Link 11
+*   Link 13
+*   Link 13
+
+</snav>
+
+<footer>footer area</footer>
 
 ---
 <p style="font-size:11px">Page template from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
