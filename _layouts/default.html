@@ -91,16 +91,6 @@
         section, footer{
           width: 680px;
       }
-        
-      snav ul{
-        background: grey;
-        border-radius: 5px;
-        height:200px; 
-        width:50%;
-        overflow:auto; 
-        overflow-y:scroll;
-        padding : 10px 30px;
-      }
       
     </style>
   </head>
@@ -108,7 +98,7 @@
     <div class="wrapper">
       <header>
         {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" style="border-radius:50%;width:180px;padding-bottom: 10px; padding-left: 20px">
+          <img src="{{site.logo | relative_url}}" alt="Logo" style="border-radius:50%;width:180px;padding-bottom: 10px; padding-left: 10px">
         {% endif %}
 
         <h1 style="font-size:22px;margin-bottom:10px;"><a style="font-size:22px;margin-bottom:10px;" href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
@@ -152,24 +142,7 @@
       <section>
 
       {{ content }}
-        <snav>
-            <ul>
-                <li>Link 1</li>
-                <li>Link 2</li>
-                <li>Link 3</li>
-                <li>Link 4</li>
-                <li>Link 5</li>
-                <li>Link 6</li> 
-                <li>Link 7</li> 
-                <li>Link 8</li>
-                <li>Link 9</li>
-                <li>Link 10</li>
-                <li>Link 11</li>
-                <li>Link 13</li>
-                <li>Link 13</li>
-
-            </ul>
-        </snav>
+       
       </section>
       <footer>
       </footer>
