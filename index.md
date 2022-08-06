@@ -1,13 +1,13 @@
-## Project Portfolio
+## PROJECT PORTFOLIO
 
 ---
 
-### Index
+### Categories:
 1. [Data Analysis and Pred. Analytics](#cat1)
 2. [Machine Learning and Deep Learning](#cat2)
 3. [Robotics, Computer Vision, IoT and Embedded System](#cat3)
 4. [Random Projects](#cat4)
-5. [Code Snippet](#cat5)
+5. [Code Snippets](#cat5)
 
 <a name="cat1"></a>
 
@@ -67,9 +67,11 @@ A project from freak people
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
+<a name="cat5"></a>
+
 ---
 
-### 📌 Code Snippet
+### 📌 Code Snippets
 
 
 ---
