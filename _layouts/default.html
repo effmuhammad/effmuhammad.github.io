@@ -20,8 +20,6 @@
         text-decoration: none;
         display: inline-block;
         font-size: 15px;
-        margin-bottom: 10px;
-        margin-left: 10px;
         transition-duration: 0.4s;
         cursor: pointer;
       }
@@ -29,6 +27,8 @@
       .button1 {
         background-color: #26a5b9; 
         color: white; 
+        margin-bottom: 15px;
+        margin-left: 10px;
       }
 
       .button1:hover {
@@ -83,6 +83,14 @@
         padding-bottom: 10px;
       }
       
+      @media print, screen and (min-width: 960px){
+        .wrapper {
+          width: 1100px;
+        }
+        section{
+          width: 800px;
+      }
+      
     </style>
   </head>
   <body>
@@ -93,7 +101,7 @@
         {% endif %}
 
         <h1 style="font-size:22px;margin-bottom:10px;"><a style="font-size:22px;margin-bottom:10px;" href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-        <p style="margin-bottom:10px;">{{ site.description | default: site.github.project_tagline }}</p>
+        <p style="margin-bottom:15px;">{{ site.description | default: site.github.project_tagline }}</p>
         
         <button class="button button1" onclick="window.location.href='/pdf/resume_Effry_Muhammad.pdf';">📄 View My Resume</button>
         
