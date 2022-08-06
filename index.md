@@ -73,7 +73,6 @@ A project from freak people
 
 ### 📌 Code Snippets
 
-
 ---
 <p style="font-size:11px">Page template from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
