@@ -28,7 +28,7 @@ A project from freak people
 
 ---
 
-#### [Project 3 Title](cat1/auto_labeling)
+#### [Project 3 Title](cat1/auto_labeling.ipynb)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 <a name="cat2"></a>
