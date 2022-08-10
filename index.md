@@ -3,7 +3,7 @@
 ---
 
 ### Categories:
-1. [Data Analysis and Pred. Analytics](#cat1)
+1. [Business and Finance](#cat1)
 2. [Machine Learning and Deep Learning](#cat2)
 3. [Robotics, Computer Vision, IoT and Embedded System](#cat3)
 4. [Random Projects](#cat4)
@@ -13,7 +13,7 @@
 
 ---
 
-### 📈 Data Analysis and Pred. Analytics
+### 📈 Business and Finance
 
 #### [Project 1 Title](/sample_page)
 
