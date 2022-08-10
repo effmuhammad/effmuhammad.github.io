@@ -15,21 +15,9 @@
 
 ### 📈 Business and Finance
 
-#### [Project 1 Title](/sample_page)
-
-A project from freak people
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-#### [Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-#### [Project 3 Title](cat1/auto_labeling)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+- #### [Telco Provider Customer Churn Prediction](/sample_page)
+- #### [Trading Decision Based on Orderbook Data Using 1D CNN Time-Series Classification](/sample_page)
+- #### [Indonesia Stock Trading Automation with IPOT Security based on PyAutoGUI and Tesseract](/sample_page)
 
 <a name="cat2"></a>
 
@@ -38,6 +26,9 @@ A project from freak people
 ### 👨🏾‍💻 Machine Learning and Deep Learning
 
 - [Project 1 Title](http://example.com/)
+
+  ddd
+
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
