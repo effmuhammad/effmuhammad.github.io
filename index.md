@@ -25,14 +25,10 @@
 
 ### 👨🏾‍💻 Machine Learning and Deep Learning
 
-- [Project 1 Title](http://example.com/)
-
-  ddd
-
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- Human Activity Recognition Using 1D Convolutional Neural Network Time-Series
+- EEG Classification based on Kaggle Dataset 
+- Household Electricity Usage Data Prediction using LSTM-RNN
+- Tesseract Specific Font Transfer Learning
 
 <a name="cat3"></a>
 
@@ -40,11 +36,10 @@
 
 ### 🤖 Robotics, Computer Vision, IoT and Embedded System
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- Microsleep Detection Helmet with Haar Cascade Face Recognition and Image processing
+- Poultry Automatic Weighing System with IoT and AI for Medion Competition (3rd Place)
+- Automatic Chicken Incubator with Motion Sensor and IoT
+- IoT Single Phase Electricity Datalogger
 
 <a name="cat4"></a>
 
@@ -52,11 +47,7 @@
 
 ### 🧩 Random Projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- How I Deal with Throttling Old Laptop
 
 <a name="cat5"></a>
 
