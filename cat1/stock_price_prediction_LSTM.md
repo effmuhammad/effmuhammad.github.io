@@ -1,6 +1,6 @@
 # Stock Price Prediction with LSTM-RNN (ANTM-IDX Case)
 
-Go to the Repository : https://github.com/effmuhammad/stock-prediction-LSTM-1-timestep
+[**Go to the Repository**](https://github.com/effmuhammad/stock-prediction-LSTM-1-timestep)
 
 In this notebook I try to analyze and predict ANTM stock price using deep learning algorithm LSTM-RNN. 
 The data is fetched from Tradingview via tvdatafeed API with daily interval. Data start from January 2018 until August 2022.
