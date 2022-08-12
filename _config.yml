@@ -5,6 +5,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>
   Doing some Personal Project
   <br>
+  <strong>Note:</strong>
+  <br>
   Still writing old project documentation to post here..
   
 theme: jekyll-theme-minimal
