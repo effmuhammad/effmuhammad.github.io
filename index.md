@@ -16,7 +16,7 @@
 ### 📈 Business and Finance
 
 - #### [Telco Provider Customer Churn Prediction](/sample_page)
-- #### [Stock Price Prediction Using LSTM (IDX:ANTM Case)](https://raw.githubusercontent.com/effmuhammad/stock-prediction-LSTM-1-timestep/main/README)
+- #### [Stock Price Prediction Using LSTM (IDX:ANTM Case)](/cat1/stock_price_prediction_LSTM)
 - #### [Trading Decision Based on Orderbook Data Using 1D CNN Time-Series Classification](/sample_page)
 - #### [Indonesia Stock Trading Automation with IPOT Security based on PyAutoGUI and Tesseract](/sample_page)
 
